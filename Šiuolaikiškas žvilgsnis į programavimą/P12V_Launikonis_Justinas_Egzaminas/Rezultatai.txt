@@ -1,0 +1,36 @@
+Pradiniai duomenys is failo 'LeidiniaiS.txt'
+====================================================================
+ Leidinio pav.     Kiek kartu iseina per men.    Vieno egz. kaina   
+====================================================================
+Flinto Zurnalas               26                          8                   
+Kauno Diena                   55                          3                   
+Zurnalas Zmones               13                          5                   
+Mano Namai                    42                          1                   
+====================================================================
+
+
+Pradiniai duomenys is failo 'LeidiniaiN.txt'
+====================================================================
+ Leidinio pav.     Kiek kartu iseina per men.    Vieno egz. kaina   
+====================================================================
+Flinto Zurnalas               3                           8                   
+Kauno Diena                   3                           2                   
+Zurnalas Zmones               5                           5                   
+Mano Namai                    20                          55                  
+Lietuvos Rytas                1                           13                  
+====================================================================
+
+
+Sutvarkytas laikrasciu ir zurnalu kainorastis
+==================================================================================================================================
+ Leidinio pav.     Kiek kartu iseina per men.    Vieno egz. kaina          3 men. kaina        6 men. kaina       12 men. kaina   
+==================================================================================================================================
+Flinto Zurnalas               3                           8                   72                  144                 288                 
+Kauno Diena                   3                           2                   18                  36                  72                  
+Lietuvos Rytas                1                           13                  39                  78                  156                 
+Mano Namai                    20                          55                  3300                6600                13200               
+Zurnalas Zmones               5                           5                   75                  150                 300                 
+==================================================================================================================================
+Pigiausias leidinys metinei prenumeratai: Kauno Diena        
+Jis, metams, kainuoja: 72
+
